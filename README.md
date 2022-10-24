@@ -6,8 +6,8 @@ Roles del equipo de trabajo ISPC GHJJKZ6:
 Producto Owner: 
 Scrum Master: Zelarayán Román 
 Team:
-Gutiérrez Emma Vilma 
-Hanun Romina 
-Jabie Salomon 
-Juchniewicz Federico 
-Kanneman Samuel 
+     Gutiérrez Emma Vilma
+     Hanun Romina
+     Jabie Salomon
+     Juchniewicz Federico
+     Kanneman Samuel

@@ -34,5 +34,6 @@ while i < 23:
 #print (descripT)
 
 df_emp = pd.DataFrame({'NOMBRE': emp,'DESCRIPCION': descripT})
+df_emp["DESCRIPCION"] = df_emp["DESCRIPCION"].str.replace(",", "")
 print (df_emp)
-df_emp.to_csv('Datos_EmpresasPlastico1.csv', index=False) 
+df_emp.to_csv('Datos_EmpresasPlasticos.csv', index=False) 

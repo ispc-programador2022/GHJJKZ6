@@ -13,4 +13,4 @@ Team:
      Juchniewicz Federico,
      Kanneman Samuel.
 
-Tema: Países Países y regiones más contaminados del mundo.
+Tema: Países y regiones más contaminados del mundo.

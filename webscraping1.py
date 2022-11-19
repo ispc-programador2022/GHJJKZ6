@@ -5,6 +5,7 @@ import lxml.html as html
 #Se importaron las librerias a utilizar.
 
 #link para extraer data
+#Pagina web que habla de, Las 10 empresas, a nivel global en la producción de plásticos contaminantes. 
 url1 = "https://www.liderempresarial.com/las-10-empresas-que-mas-contaminan-el-mundo/"
 #Se definen Headers para realizar el request de la url, en algunas paginas es necesario.
 headers = {'User-Agent':'Mozilla/5.0'}
@@ -44,4 +45,4 @@ df_emp = pd.DataFrame({'NOMBRE': emp,'DESCRIPCION': descripT})
 df_emp["DESCRIPCION"] = df_emp["DESCRIPCION"].str.replace(",", "")
 print (df_emp)
 #exportamos a csv
-df_emp.to_csv('Datos_EmpresasPlasticos.csv', index=False) 
+df_emp.to_csv('Datos_EmpresasPlasticos.csv', index=False)

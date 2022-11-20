@@ -9,12 +9,12 @@
 
 **Colaboradores:**
 
-Producto Owner: Juchniewicz Federico 
-Scrum Master: Zelarayán Román 
-Team:
-		Gutiérrez Emma Vilma 
-		Hanun Romina 
-		Kanneman Samuel 
+- Producto Owner: [Juchniewicz Federico](https://github.com/FJISPC) 
+- Scrum Master: [Zelarayán Román ](https://github.com/romanzelararg)
+- Team:
+	- [Gutiérrez Emma Vilma ](https://github.com/Emygut)
+	- [Hanun Romina](https://github.com/RomiHanun) 
+	- [Kanneman Samuel](https://github.com/samuelkanneman) 
 
 Profesores:
 

@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/101228469/172445821-245dee9a-7c37-4f00-97b4-7c03965467f3.png)
+
 # GRUPO GHJJKZ6 - AULA 7
 
 #### PROYECTO INTEGRADOR 2022 - PROYECTO ALFA

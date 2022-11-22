@@ -65,6 +65,8 @@ Mediante el conocimiento del cursado de Programación de TSCDIA y curso Cisco de
 - Países con mayor emisión de Dióxido de Carbono.
 - Países y regiones con mayor contaminación del mundo en calidad del aire (datos históricos entre 2018-2021).
 
-Una vez realizada la extracción de datos se exportan a csv, donde se realizan graficas de resultados obtenidos.
-
-Técnica de Scrum en Trello para el seguimiento del proyecto.
+* Técnica de Scrum en Trello para el seguimiento del proyecto.
+* Una vez realizada la extracción de datos se exportan a csv, donde se realizan graficas de resultados obtenidos.
+* Creamos Base de Datos "db_paises.sql"
+* Creamos Tabla "paisest_co2"
+* Realizamos una consulta a tabla "paisest_co2", donde filtramos los paises que en 2021 aumentaron un 10% las emisiones per cápita de CO2 con respecto al año anterior.

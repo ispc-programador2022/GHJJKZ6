@@ -32,13 +32,14 @@ https://trello.com/w/ghjjkz6pitscdiaalfa/home
 https://github.com/ispc-programador2022/GHJJKZ6
 
 Librerías Utilizadas
--bs4 BeatifulSoup
--Requests
--Pandas
--Pathlib
--matplotlib
--seaborn
--numpy 
+-[bs4 BeatifulSoup]
+-[Requests]
+-[Pandas]
+-[Pathlib]
+-[matplotlib]
+-[seaborn]
+-[numpy] 
+-[pymysql] 
 
 **Origen de Datos para el Proyecto:**
 

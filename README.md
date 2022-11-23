@@ -64,8 +64,9 @@ Mediante el conocimiento del cursado de Programación de TSCDIA y curso Cisco de
 * Desde Visual Code realizamos la creación y programación de los archivos.py para el proyecto.
 * Programamos incluyendo librerías para la obtención de datos del as paginas relacionadas a la contaminación de pasases y Empresas a nivel global.
 * Se obtiene tres tablas: 
-- Empresas que mayor contaminación de plásticos en el mundo.
-- Países con mayor emisión de Dióxido de Carbono.
+ 
+- Empresas que mayor contaminación d e plásticos en el mundo.
+- Países con mayor emisión de Dióxido de Carbono .
 - Países y regiones con mayor contaminación del mundo en calidad del aire (datos históricos entre 2018-2021).
 
 * Técnica de Scrum en Trello para el seguimiento del proyecto.

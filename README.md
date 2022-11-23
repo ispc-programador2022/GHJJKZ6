@@ -22,8 +22,9 @@ Profesores:
 	Hector Prado
 
 # Tema a desarrollar:
-## Países y Empresas que más contaminan a nivel mundial
-![] (https://github.com/ispc-programador2022/GHJJKZ6/blob/main/portada.png)
+## Países y Empresas que más contaminan a nivel mundia
+
+![](https://github.com/ispc-programador2022/GHJJKZ6/blob/main/portada.png)
 
 **Link Trello:**
 https://trello.com/w/ghjjkz6pitscdiaalfa/home

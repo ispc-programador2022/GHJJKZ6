@@ -74,3 +74,5 @@ Mediante el conocimiento del cursado de Programación de TSCDIA y curso Cisco de
 -  [x] Países con mayor emisión de dióxido de carbon
 
 - [x] Países y regiones con  mayor contaminación  del mundo en calidad de aire (datos históricos entre 2018-2021)
+
+![](https://github.com/ispc-programador2022/GHJJKZ6/blob/main/presentaci%C3%B3n.png)

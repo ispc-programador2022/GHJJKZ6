@@ -55,6 +55,7 @@ https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2?anio=202
 https://www.iqair.com/es/world-most-polluted-countries
 
 ## Objetivo:
+![](https://github.com/ispc-programador2022/GHJJKZ6/blob/main/objetivos.png)
 
 Mediante el conocimiento del cursado de Programación de TSCDIA y curso Cisco de Python, realizamos:
 

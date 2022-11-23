@@ -71,6 +71,6 @@ Mediante el conocimiento del cursado de Programación de TSCDIA y curso Cisco de
 * Se obtiene tres tablas: 
 - [x] Empresas con mayor contaminación con plástico en el mundo
 
--[x] Países con mayor emisión de dióxido de carbono
+-[x] Países con mayor emisión de dióxido de carbon
 
--[x] Países y regiones con  mayor contaminación  del mundo en calidad de aire (datols históricos entre 2018-2021).
+-[x] Países y regiones con  mayor contaminación  del mundo en calidad de aire (datols históricos entre 2018-2021)

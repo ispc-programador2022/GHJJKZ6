@@ -23,7 +23,7 @@ Profesores:
 
 # Tema a desarrollar:
 ## Países y Empresas que más contaminan a nivel mundial.
-![](https://economiasustentable.com/wp-content/uploads/2021/10/greenpeace-plasticos-contaminacion.jpg)
+![Imagen Texto] (https://github.com/ispc-programador2022/GHJJKZ6/blob/main/portada.png)
 
 **Link Trello:**
 https://trello.com/w/ghjjkz6pitscdiaalfa/home

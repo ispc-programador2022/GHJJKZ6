@@ -69,4 +69,4 @@ Mediante el conocimiento del cursado de Programación de TSCDIA y curso Cisco de
 * Creamos Tabla "paisest_co2"
 * Realizamos una consulta a tabla "paisest_co2", donde filtramos los paises que en 2021 aumentaron un 10% las emisiones per cápita de CO2 con respecto al año anterior.
 * Se obtiene tres tablas: 
-- [x]Empresas con mayo contaminación con plástico en el mundo
+- [x]Empresas con mayo contaminación con plástico en el mund

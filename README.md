@@ -70,5 +70,7 @@ Mediante el conocimiento del cursado de Programación de TSCDIA y curso Cisco de
 * Realizamos una consulta a tabla "paisest_co2", donde filtramos los paises que en 2021 aumentaron un 10% las emisiones per cápita de CO2 con respecto al año anterior.
 * Se obtiene tres tablas: 
 - [x] Empresas con mayor contaminación con plástico en el mundo
+
 -[x] Países con mayor emisión de dióxido de carbono
+
 -[x] Países y regiones con  mayor contaminación  del mundo en calidad de aire (datols históricos entre 2018-2021).
